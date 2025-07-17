@@ -1,0 +1,27 @@
+--- Student Report ---
+Name: Prajwal, Age: 22
+Marks:
+  - Math: 40 (PASS)
+  - Physics: 30 (FAIL)
+  - Chemistry: 38 (FAIL)
+Average: 36.00, Overall Status: FAIL
+----------------------
+
+--- Student Report ---
+Name: ABC, Age: 23
+Marks:
+  - Math: N/A (N/A)
+  - Physics: N/A (N/A)
+  - Chemistry: N/A (N/A)
+Average: 0.00, Overall Status: FAIL
+----------------------
+
+--- Student Report ---
+Name: gita, Age: 23
+Marks:
+  - Math: 45 (PASS)
+  - Physics: 55 (PASS)
+  - Chemistry: 56 (PASS)
+Average: 52.00, Overall Status: PASS
+----------------------
+
