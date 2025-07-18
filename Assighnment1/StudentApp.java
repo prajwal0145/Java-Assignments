@@ -137,17 +137,17 @@ public class StudentApp {
         return null;
     }
 
-    // IMPORTANT FIX: Consume the newline character immediately after nextInt()
+  
     static int getIntInput() {
         int value;
         while (true) {
             try {
-                value = sc.nextInt(); // Read the integer
-                sc.nextLine();       // <--- THIS LINE IS THE FIX: Consume the leftover newline
+                value = sc.nextInt(); 
+                sc.nextLine();       
                 return value;
             } catch (InputMismatchException e) {
                 System.out.print("Invalid input. Please enter a number: ");
-                sc.nextLine(); // Consume the invalid input that caused the exception
+                sc.nextLine();
             }
         }
     }
