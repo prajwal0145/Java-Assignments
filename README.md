@@ -33,7 +33,6 @@ StudentReportSystem/
 
 ## 🚀 How to Run
 
-```bash
 javac StudentApp.java
 java StudentApp
 
