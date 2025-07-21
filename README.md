@@ -31,12 +31,11 @@ Assighment1/
 ├── README.md         # Project description
 
 
-## 🚀 How to Run
+##  How to Run
 
 javac StudentApp.java
 java StudentApp
 
----
 
 
 
