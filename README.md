@@ -1,4 +1,4 @@
-# 🎓 Student Report System (Java Console App)
+# 🎓 Student Report System 
 
 This is a simple **Java-based console application** that allows you to manage student records, input marks, view reports, and save them to a file. The project is written using core Java concepts including classes, arrays, ArrayLists, file I/O, and basic input validation.
 
