@@ -1,10 +1,10 @@
-# 🎓 Student Report System 
+# Student Report System 
 
 This is a simple **Java-based console application** that allows you to manage student records, input marks, view reports, and save them to a file. The project is written using core Java concepts including classes, arrays, ArrayLists, file I/O, and basic input validation.
 
 ---
 
-## 📋 Features
+##  Features
 
 - Add student with name and age  
 - Enter marks for three subjects: Math, Physics, and Chemistry  
@@ -14,7 +14,7 @@ This is a simple **Java-based console application** that allows you to manage st
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java SE (Standard Edition)
 - Scanner (for input)
@@ -23,7 +23,7 @@ This is a simple **Java-based console application** that allows you to manage st
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 StudentReportSystem/
@@ -33,10 +33,9 @@ StudentReportSystem/
 
 ## 🚀 How to Run
 
-### Prerequisites
-
-- Java JDK 8 or above  
-- Terminal / Command Prompt
+```bash
+javac StudentApp.java
+java StudentApp
 
 ---
 
