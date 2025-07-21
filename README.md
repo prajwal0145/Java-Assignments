@@ -26,7 +26,7 @@ This is a simple **Java-based console application** that allows you to manage st
 ##  Project Structure
 
 ```bash
-StudentReportSystem/
+Assighment1/
 ├── StudentApp.java   # Main Java file with all logic
 ├── README.md         # Project description
 
