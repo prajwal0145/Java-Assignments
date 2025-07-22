@@ -39,7 +39,7 @@ Open a terminal or command prompt, navigate to the directory containing the file
 ```bash
 javac *.java
 
-### 3. Run
+### 2. Compile
 
 Once compilation is successful, run the application from your terminal with the following command:
 
