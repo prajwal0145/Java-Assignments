@@ -41,6 +41,7 @@ javac *.java
 
 ### 2. Compile
 
+
 Once compilation is successful, run the application from your terminal with the following command:
 
 ```bash
