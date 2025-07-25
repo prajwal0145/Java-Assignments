@@ -1,0 +1,18 @@
+--- Student Report ---
+Name: Sumit, Age: 22
+Marks:
+  - Math: 70 (PASS)
+  - Physics: 80 (PASS)
+  - Chemistry: 90 (PASS)
+Average: 80.00, Overall Status: PASS
+----------------------
+
+--- Student Report ---
+Name: Sumit, Age: 22
+Marks:
+  - Math: N/A (N/A)
+  - Physics: N/A (N/A)
+  - Chemistry: N/A (N/A)
+Average: 0.00, Overall Status: FAIL
+----------------------
+
